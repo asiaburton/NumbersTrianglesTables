@@ -1,4 +1,4 @@
-# TableUtilities
+`# TableUtilities
 * Ensure each of the test cases in the class [TableUtilitiesTest](https://github.com/Zipcoder/CR-MicroLabs-Loops-NumbersTrianglesTables/blob/master/src/test/java/io/zipcoder/microlabs/mastering_loops/TableUtilitiesTest.java) successfully passes upon completion of each of the method stubs in the class [TableUtilities](https://github.com/Zipcoder/CR-MicroLabs-Loops-NumbersTrianglesTables/blob/master/src/main/java/io/zipcoder/microlabs/mastering_loops/TableUtilities.java).
     * `String getLargeMultiplicationTable()`
     * `String getSmallMultiplicationTable()`
