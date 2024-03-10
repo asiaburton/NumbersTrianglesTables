@@ -60,5 +60,8 @@ public class NumberUtilities {
             sb.append((int)Math.pow(i, exponent));
         }
         return sb.toString();
+
     }
 }
+
+
